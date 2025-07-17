@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/eagurin-myaiserv-badge.png)](https://mseep.ai/app/eagurin-myaiserv)
+
 # MCP Server - Model Context Protocol API
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
